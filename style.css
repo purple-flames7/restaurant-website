@@ -1,3 +1,4 @@
+/* Base reset */
 * {
   margin: 0;
   padding: 0;
@@ -11,6 +12,7 @@ body {
   color: #333333;
 }
 
+/* Navbar */
 .navbar {
   background-color: #2c2c2c !important;
 }
@@ -24,6 +26,7 @@ body {
   color: #d9a074 !important;
 }
 
+/* Hero section */
 .hero {
   height: 600px;
   background-size: cover;
@@ -51,6 +54,7 @@ h2 {
   margin-bottom: 1em;
 }
 
+/* Menu section */
 .card {
   border: none;
   border-radius: 10px;
@@ -61,6 +65,7 @@ h2 {
   color: #8c5e58;
 }
 
+/* Footer */
 footer {
   background-color: #2c2c2c;
   color: #ccc;
@@ -75,6 +80,7 @@ footer a.btn:hover {
   background-color: #d9a074;
 }
 
+/* contact form */
 #contact input,
 #contact textarea {
   border: 1px solid #ccc;
